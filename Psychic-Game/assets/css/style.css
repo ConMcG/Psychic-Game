@@ -1,0 +1,82 @@
+body {
+  font-size: 30px;
+  line-height: 70px;
+  background-image: url(../images/shutterstock_384575647.jpg);
+  background-size: contain;
+  width: 960px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #e8aa01;
+  
+}
+
+/*general*/
+
+.container {
+  clear: both;
+  margin: 0 auto;
+  max-width: 960px;
+  background-color: #e8aa01;
+  opacity: .95;
+  border: 5px solid white;
+  border-radius: 15px;
+  
+}
+
+h1 {
+
+  font-size: 65px;
+  color: #008cd9;
+  font-family: 'Cinzel Decorative', cursive;
+  padding: 30px;
+  line-height: 50px;
+
+}
+
+h2 {
+
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 50px;
+    padding: 30px;
+    color: white;
+    line-height: 60px;
+
+}
+
+
+/*header*/
+.container {
+  padding:0;
+  margin:0;
+}
+
+#banner {
+  height: 130px;
+}
+
+/*Main*/
+.main-container {
+  
+  padding:60px;
+  background-color: #008cd9;
+  opacity: .95;
+  border: 5px solid #c7076a;
+  border-radius: 15px;
+  height: 500px;
+
+/* border radius: https://www.w3schools.com/cssref/css3_pr_border-radius.asp  */
+}
+
+
+/*footer*/
+
+footer {
+  padding: 10px 0;
+  clear: both;
+  font-size: 12px;
+  color: #c7076a;
+  text-align: center;
+ 
+}
